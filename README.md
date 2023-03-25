@@ -33,7 +33,7 @@ In this section I assessed the data to find the following quality and tidiness i
 
 I will then clean the data to finally be able to analyse it.
 
-## Data Analysis and Visualization
+## Data Analysis
 Finally I analyzed the cleaned data to come up with the following
 Insights:
 1. The average rating out of the dogs from the tweets is 10.5 out of 10.
